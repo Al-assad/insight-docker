@@ -3,6 +3,8 @@
 <br>
 A docker image of [Insight](https://github.com/Elliottssu/insight) for fast Insight application creation，which providing a convenient UI interface for messaging enterprise WeChat Work Bot.
 
+<br/>
+  
 <br>
 <img src="https://camo.githubusercontent.com/a59aac1ef0d7c42d3deacd093323ec643961c062/68747470733a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f333530323536372d366336353237643137303966303364382e706e67" />
 
